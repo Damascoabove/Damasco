@@ -1,2 +1,69 @@
-# Damasco
-Business profile
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Benvenuto a Bordo</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 20px;
+            background-color: #f8f8f8;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #333;
+        }
+        .btn {
+            display: inline-block;
+            margin: 10px;
+            padding: 10px 20px;
+            text-decoration: none;
+            color: white;
+            background-color: #007BFF;
+            border-radius: 5px;
+        }
+        .btn:hover {
+            background-color: #0056b3;
+
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Benvenuti a Bordo!</h1>
+        <p>Siamo felici di accompagnarvi nel vostro viaggio.</p>
+        
+        <h2>📶 Wi-Fi Gratuito</h2>
+        <p><strong>Rete:</strong> GUESTS</p>
+        
+        
+        <h2>📍 Itinerario del Viaggio</h2>
+        <p>Visualizza il percorso e le informazioni del tragitto.</p>
+        <a class="btn" href="https://maps.app.goo.gl/3s1ae4WJsPFuSubp9" target="_blank">Visualizza Mappa</a>
+        
+        <h2>🎁 Contenuti Esclusivi</h2>
+        <p>sfoglia la nostra presentazione e scopri i nostri servizi.</p>
+        <a class="btn" href="http://sfogliaqui.net/mDz1" target="_blank">Scarica Brochure</a>
+        <a class="btn" href="https://youtu.be/oG3uoJP-9vQ?si=nEHTTF2c82-NMpGt" target="_blank">Guarda il Video</a>
+        
+        <h2>📲 Seguici sui Social</h2>
+        <a class="btn" href="https://www.facebook.com/www.damasco.it" target="_blank">Facebook</a>
+        <a class="btn" href="https://www.instagram.com/damascoautoservizi/" target="_blank">Instagram</a>
+        <a class="btn" href="https://autoservizidamasco.it/" target="_blank">Visita il nostro sito</a>
+        
+        <h2>⭐ Lascia una Recensione</h2>
+        <p>Aiutaci a migliorare, condividi la tua esperienza!</p>
+        <a class="btn" href="https://g.page/r/Cf5siWNMCD6xEAg/review" target="_blank">Lascia una Recensione</a>
+    </div>
+</body>
+</html>
